@@ -3,7 +3,6 @@
 A command-line program that asks for your name and date of birth(but doesn't store it anywhere), then checks any password you enter against common security criteria like length, uppercase/lowercase letters, numbers, special characters or whether it's one of the most commonly used or easily guessed passwords or even whether it's based on your own name or birth year. Gives a strength score out of 5 with suggestions for improvement.
 
 ## How to run
-## How to run
 ```bash
 python password-strength-checker.py
 ```
