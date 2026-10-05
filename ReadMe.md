@@ -14,7 +14,7 @@ python password-strength-checker.py
     - Presence of uppercase and lowercase letters
     - Presence of at least one number
     - Presence of at least one special character
-- Checks for commonly used unsecure passwords
+- Checks for commonly used unsafe passwords
 - Checks for passwords that contain your own name or birth year(most unsecure)
 - Gives actionable suggestions for each missing criterion.
 - Loops so you can test multiple passwords in one session.
